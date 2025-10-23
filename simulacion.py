@@ -153,3 +153,4 @@ st.write(f"Base (promedio): {price_base:.2f} USD  ({pct_base:.2f}%)")
 st.write(f"Pesimista (p10): {price_low:.2f} USD  ({pct_low:.2f}%)")
 st.write(f"Lambda EWMA: {lambda_opt:.4f}")
 st.write(f"Stress_down: {stress_down:.3f}   Stress_up: {stress_up:.3f}")
+
